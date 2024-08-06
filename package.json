@@ -1,6 +1,6 @@
 {
   "name": "@capacitor-community/barcode-scanner",
-  "version": "4.0.1",
+  "version": "6.0.0",
   "description": "A fast and efficient (QR) barcode scanner for Capacitor",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -61,7 +61,7 @@
     "typescript": "~5.0.4"
   },
   "peerDependencies": {
-    "@capacitor/core": "^5.0.0"
+    "@capacitor/core": "^6.0.0"
   },
   "capacitor": {
     "ios": {
